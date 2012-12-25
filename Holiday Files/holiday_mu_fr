@@ -1,0 +1,53 @@
+::
+:: Country:  Mauritius
+::
+:: Language: French
+::
+:: Author:   Nayar Joolfoo <njoolfoo@gmail.com>
+::
+:: Updated: 14 oct 2012
+::
+:: Source:
+::
+
+:: Metadata
+country     "MU"
+language    "fr"
+:name        "Mauritius"
+description "National holiday file for Mauritius (French)"
+
+:: Public Holidays
+"Nouvel An"                         weekend on 1 january length 2 days
+"Abolition de l'esclavage"          weekend on 1 february
+"Fete de l'independance"            weekend on 12 march
+"Fete du Travail"                   weekend on 1 may
+"Arrivee de Travailleurs engages"   weekend on 2 november
+
+:: Religious Holidays
+"Noel"                              weekend on 25 december 
+"Eid-Ul-Fitr"                       weekend on hijri 1 shawwal 
+
+:: Variable Religious Holidays
+"Fete du Printemps"                 weekend on 23 january 2012
+"Thaipoosam Cavadee"                weekend on 7 february 2012
+"Maha Shivratee"                    weekend on 20 february 2012
+"Ougadi"                            weekend on 23 march 2012
+"Fete de l'Assomption"              weekend on 15 august 2012
+"Ganesh Chaturthi"                  weekend on 20 september 2012
+"Divali"                            weekend on 13 november 2012
+
+"Fete du Printemps"                 weekend on 10 february 2013
+"Thaipoosam Cavadee"                weekend on 27 january 2013
+"Maha Shivratee"                    weekend on 10 march 2013
+"Ougadi"                            weekend on 11 april 2013
+"Fete de l'Assomption"              weekend on 15 august 2013
+"Ganesh Chaturthi"                  weekend on 10 september 2013
+"Divali"                            weekend on 3 november 2013
+"La Tout Saint "                    weekend on 1 november 2013
+
+:: Non-Holiday Religious days
+"Eid-Ul-Adhia"                      on hijri 10 thualhijjah
+
+::Cultural
+"St. Valentine's Day"               on 14 february
+"Journee de Pére Laval"             on 9 september
