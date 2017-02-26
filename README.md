@@ -1,6 +1,6 @@
 KDE-for-Mauritius
 =================
-More Info: http://nayarweb.com/blog/2012/mauritian-holiday-files-for-kde/
+More Info: https://nayarweb.com/blog/2012/mauritian-holiday-files-for-kde/
 
 Install
 -------
